@@ -1,0 +1,8 @@
+# Perfil do Github
+
+[Meu pefil](https://github.com/xLucasMarquesx)
+
+## Definição
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
